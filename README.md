@@ -6,7 +6,7 @@
 ### <div align="center">I'm Tadeo Pariani </div>  
   
 
--  💻 I am 20 years old and I am a third-year student in Software Development at the Technological Institute Rio Cuarto (iTec).  
+-  💻 I am a 21 years old Software developer-Jr  
   
 
 - 🏫 In high school, i acquire basic and intermediate knowledge about 3D design, audio and video editing, group work and technology.  
