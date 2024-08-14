@@ -2,10 +2,6 @@
   
 
 -  💻 I am a 21 years old Software Developer-Jr  
-  
-
-- 🏫 In high school, i acquire basic and intermediate knowledge about 3D design, audio and video editing, group work and technology.  
-  
 
 <br/>  
 
