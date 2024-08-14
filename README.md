@@ -1,12 +1,7 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Tadeo Pariani </div>  
   
 
--  💻 I am a 21 years old Software developer-Jr  
+-  💻 I am a 21 years old Software Developer-Jr  
   
 
 - 🏫 In high school, i acquire basic and intermediate knowledge about 3D design, audio and video editing, group work and technology.  
